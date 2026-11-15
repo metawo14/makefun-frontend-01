@@ -1,0 +1,26 @@
+[
+  {
+    "file": "screenshots/1-board.jpg",
+    "route": "#/",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "screenshots/2-bounty.jpg",
+    "route": "#/bounty/threejs-fps-02",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  },
+  {
+    "file": "screenshots/3-leaderboard.jpg",
+    "route": "#/bounty/threejs-fps-02/leaderboard",
+    "viewport": {
+      "width": 1280,
+      "height": 800
+    }
+  }
+]

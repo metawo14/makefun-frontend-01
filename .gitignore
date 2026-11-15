@@ -1,0 +1,4 @@
+out/
+out-verify/
+*.log
+.DS_Store
